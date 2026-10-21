@@ -1,0 +1,7 @@
+Method,Ackley,Rastrigin,Rosenbrock,Sphere,Mean rank
+jDE (adaptive),1.0,1.0,4.0,1.0,1.75
+DE rand/1/bin,2.0,4.0,2.0,2.0,2.5
+DE rand/2/bin,3.0,5.0,1.0,3.0,3.0
+DE current-to-best/1,4.0,2.0,3.0,4.0,3.25
+DE best/1/bin,5.0,3.0,5.0,5.0,4.5
+Random Search,6.0,6.0,6.0,6.0,6.0
